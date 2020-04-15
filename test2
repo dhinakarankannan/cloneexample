@@ -1,0 +1,8 @@
+GIT Client Installation
+If you're experienced in installing the GIT client to your preferences please skip this section, otherwise, please reference the settings below.
+
+Also, if you have git installed under Cygwin, etc. you do not need to follow these directions.  You should be able to access them from your preferred CLI.
+
+ 
+
+1. Download the appropriate GIT client from: https://git-scm.com/download.
