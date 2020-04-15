@@ -1,0 +1,6 @@
+Installed and configured Git on the following servers:
+*     mtl-mwj-nlpsdriver
+*     mtl-mwj-driver03 
+*     mtl-nr11mw-vm04
+
+Used the integration team's GIT stream to verify for the connection and still needs MWJ QA NLPS GIT stream to be verified.  
